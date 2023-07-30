@@ -5,14 +5,12 @@ This repository contains the code and files for the second homework assignment i
 ## Authors
 
 Yosi Kariv - 205507460
-Eldar Abramovich - 316462795
 
 ## Contact Information
 
 For any questions or concerns, please reach out to the authors:
 
 - Yosi Kariv: [yosikariv@email.com](mailto:yosikariv@email.com)
-- Eldar Abramovich: [eldarabramovich090@gmail.com](mailto:eldarabramovich@email.com)
 
 ## Project Overview
 
